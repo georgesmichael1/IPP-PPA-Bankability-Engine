@@ -1,0 +1,4 @@
+pydantic
+matplotlib
+fpdf2
+streamlit
